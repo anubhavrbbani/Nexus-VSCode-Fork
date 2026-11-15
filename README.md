@@ -1,0 +1,3 @@
+# Nexus builds
+
+Installable test builds. Download `nexus-0.7.0.vsix`, then in VS Code: Extensions → `···` → Install from VSIX…
